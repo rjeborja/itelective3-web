@@ -2,10 +2,10 @@
 This is a full-stack web application for managing a stock inventory using the MERN stack (MongoDB, Express, React, and Node.js).
 
 ## Features
-*Add, view, update, and delete items in the inventory
-*Search for items by name or category
-*Sort items by name, price, or quantity
-*View a summary of the inventory including the total value and number of item
+* Add, view, update, and delete items in the inventory
+* Search for items by name or category
+* Sort items by name, price, or quantity
+* View a summary of the inventory including the total value and number of item
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
