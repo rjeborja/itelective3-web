@@ -1,5 +1,5 @@
 # <img src="https://user-images.githubusercontent.com/120948162/208944393-9bbc2e22-6068-4f6e-b6de-1121121087ae.png" width="45"> Stock Inventory System
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
 This is a full-stack web application for managing a stock inventory using the MERN stack (MongoDB, Express, React, and Node.js).
 
 ## Features
