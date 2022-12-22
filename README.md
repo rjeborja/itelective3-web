@@ -58,10 +58,10 @@ npm start
 ## Deployment
 
 ## Built With
-* [Node.js](https://nodejs.org/en/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/320px-Node.js_logo_2015.svg.png" width="75">
-* [MongoDB](https://www.mongodb.com/) <img src src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png" width="75">
-* [React](https://reactjs.org/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="75">
-* [Express](https://expressjs.com/) <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="75">
+* [Node.js](https://nodejs.org/en/) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+* [MongoDB](https://www.mongodb.com/) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+* [React](https://reactjs.org/) 	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+* [Express](https://expressjs.com/) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ## Contributing
 
