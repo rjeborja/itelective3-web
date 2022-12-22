@@ -59,7 +59,7 @@ npm start
 
 ## Built With
 * [Node.js](https://nodejs.org/en/)
-* [MongoDB](https://www.mongodb.com/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png" width="100">
+* [MongoDB](https://www.mongodb.com/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png" width="50">
 * [React](https://reactjs.org/)
 * [Express](https://expressjs.com/)
 
