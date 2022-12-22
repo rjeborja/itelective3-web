@@ -2,15 +2,15 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
 This is a full-stack web application for managing a stock inventory using the MERN stack (MongoDB, Express, React, and Node.js).
 
-- [<img src="https://user-images.githubusercontent.com/120948162/208944393-9bbc2e22-6068-4f6e-b6de-1121121087ae.png" width="45"> Stock Inventory System](#-img-src--https---user-imagesgithubusercontentcom-120948162-208944393-9bbc2e22-6068-4f6e-b6de-1121121087aepng--width--45---stock-inventory-system)
-  * [Features](#features)
-  * [Getting Started](#getting-started)
-    + [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-  * [Deployment](#deployment)
-  * [Built With](#built-with)
-  * [Contributing](#contributing)
-  * [License](#license)
+####
+ * [Features](#features)
+ * [Getting Started](#getting-started)
+   + [Prerequisites](#prerequisites)
+ * [Installation](#installation)
+ * [Deployment](#deployment)
+ * [Built With](#built-with)
+ * [Contributing](#contributing)
+ * [License](#license)
 
 
 
