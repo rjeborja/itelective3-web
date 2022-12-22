@@ -1,5 +1,5 @@
 # Stock Inventory System
-![Github Repo Size](https://img.shields.io/github/languages/code-size/rjeborja/itelective3-web)
+![Github Repo Size](https://img.shields.io/github/languages/code-size/rjeborja/itelective3-web) ![Github Commit Month](https://img.shields.io/github/commit-activity/m/rjeborja/itelective3-web)  
 #### <img src="https://user-images.githubusercontent.com/120948162/209056926-a6601b4f-fb23-49bd-945a-d3769cda9def.png" width="155" img align="right"> *in association with* Ateneo de Davao University - School of Engineering and Architecture  
 This is a full-stack web application for managing a stock inventory using the MERN stack (MongoDB, Express, React, and Node.js).
 
