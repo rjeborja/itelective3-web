@@ -2,7 +2,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
 This is a full-stack web application for managing a stock inventory using the MERN stack (MongoDB, Express, React, and Node.js).
 
-####
+# Table of Contents
  * [Features](#features)
  * [Getting Started](#getting-started)
    + [Prerequisites](#prerequisites)
