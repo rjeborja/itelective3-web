@@ -16,10 +16,16 @@ This is a full-stack web application for managing a stock inventory using the ME
 
 
 ## Features
+It is an application you can use to manage and track the movement and trading of goods, materials, and products between clients and suppliers. It is also designed to help businesses keep track of the items they have in stock, the quantities of each item and their locations within the company.
+It includes systems for substandard/defective stocks subjected to quality control and if indeed, the option to return said stock. Retailers or inventory managers can also use the application to distribute their stocks.
+
+It also has functions for managing stock such as:
 * Add, view, update, and delete items in the inventory
 * Search for items by name or category
 * Sort items by name, price, or quantity
 * View a summary of the inventory including the total value and number of item
+
+## Subsystems included
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
