@@ -5,6 +5,7 @@ This is a full-stack web application for managing a stock inventory using the ME
 
 # Table of Contents
  * [Features](#features)
+   + [Subsystems include](#subsystems-included)
  * [Getting Started](#getting-started)
    + [Prerequisites](#prerequisites)
  * [Installation](#installation)
@@ -12,8 +13,6 @@ This is a full-stack web application for managing a stock inventory using the ME
  * [Built With](#built-with)
  * [Contributing](#contributing)
  * [License](#license)
-
-
 
 ## Features
 It is an application you can use to manage and track the movement and trading of goods, materials, and products between clients and suppliers. It is also designed to help businesses keep track of the items they have in stock, the quantities of each item and their locations within the company.
@@ -26,7 +25,12 @@ It also has functions for managing stock such as:
 * View a summary of the inventory including the total value and number of item
 
 ### Subsystems included
+1. Item Master: This subsystem maintains a detailed record of each item in the inventory, including its description, classification, and current stock levels.  
+2. Purchase Order: This subsystem is used to generate and track purchase orders for goods and materials needed to restock the inventory.
+3. Receiving: This subsystem is used to track the receipt of goods and materials and to update the inventory levels accordingly.
+4. Shipping: This subsystem is used to track the movement and quality of goods and materials from the warehouse to the customer.
 
+Overall, the goal of the stock inventory system is to provide real-time visibility into the movement of goods and materials, helping businesses make informed decisions about inventory management and restocking.
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
