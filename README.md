@@ -39,7 +39,22 @@ These instructions will get you a copy of the project up and running on your loc
 * [MongoDB](https://www.mongodb.com/)
 
 ## Installation
-
+1. Clone the repository:
+```
+git clone https://github.com/rjeborja/itelective3-web.git
+```
+2. Navigate to the project directory:
+```
+cd itelective3-web
+```
+3. Install the dependencies:
+```
+npm install
+```
+4. Start the development server:
+```
+npm start
+```
 ## Deployment
 
 ## Built With
