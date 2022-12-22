@@ -58,10 +58,10 @@ npm start
 ## Deployment
 
 ## Built With
-* [Node.js](https://nodejs.org/en/)
-* [MongoDB](https://www.mongodb.com/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png" width="50">
-* [React](https://reactjs.org/)
-* [Express](https://expressjs.com/)
+* [Node.js](https://nodejs.org/en/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/320px-Node.js_logo_2015.svg.png">
+* [MongoDB](https://www.mongodb.com/) <img src src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png" width="75">
+* [React](https://reactjs.org/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png">
+* [Express](https://expressjs.com/) <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
 
 ## Contributing
 
