@@ -25,7 +25,7 @@ It also has functions for managing stock such as:
 * Sort items by name, price, or quantity
 * View a summary of the inventory including the total value and number of item
 
-## Subsystems included
+### Subsystems included
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
