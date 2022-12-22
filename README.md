@@ -5,7 +5,7 @@ This is a full-stack web application for managing a stock inventory using the ME
 
 # Table of Contents
  * [Features](#features)
-   + [Subsystems include](#subsystems-included)
+   + [Subsystems included](#subsystems-included)
  * [Getting Started](#getting-started)
    + [Prerequisites](#prerequisites)
  * [Installation](#installation)
